@@ -1,0 +1,45 @@
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project\final project\bin\Debug\final project.exe
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project\final project\bin\Debug\final project.pdb
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project\final project\obj\x86\Debug\final_project.Form1.resources
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project\final project\obj\x86\Debug\final_project.Properties.Resources.resources
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project\final project\obj\x86\Debug\final project.csproj.GenerateResource.Cache
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project\final project\obj\x86\Debug\final project.exe
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project\final project\obj\x86\Debug\final project.pdb
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\final project\final project\bin\Debug\final project.exe
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\final project\final project\bin\Debug\final project.pdb
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\final project\final project\obj\x86\Debug\final_project.Form1.resources
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\final project\final project\obj\x86\Debug\final_project.Properties.Resources.resources
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\final project\final project\obj\x86\Debug\final project.csproj.GenerateResource.cache
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\final project\final project\obj\x86\Debug\final project.csproj.CoreCompileInputs.cache
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\final project\final project\obj\x86\Debug\final project.exe
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\final project\final project\obj\x86\Debug\final project.pdb
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\final project\final project\obj\x86\Debug\final project.csproj.AssemblyReference.cache
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\final project\final project\obj\x86\Debug\final_project.Form2.resources
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\FO Final Project\final project\final project\bin\Debug\final project.exe
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\FO Final Project\final project\final project\bin\Debug\final project.pdb
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\FO Final Project\final project\final project\obj\x86\Debug\final project.csproj.AssemblyReference.cache
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\FO Final Project\final project\final project\obj\x86\Debug\final_project.Form1.resources
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\FO Final Project\final project\final project\obj\x86\Debug\final_project.Form2.resources
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\FO Final Project\final project\final project\obj\x86\Debug\final_project.Properties.Resources.resources
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\FO Final Project\final project\final project\obj\x86\Debug\final project.csproj.GenerateResource.cache
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\FO Final Project\final project\final project\obj\x86\Debug\final project.csproj.CoreCompileInputs.cache
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\FO Final Project\final project\final project\obj\x86\Debug\final project.exe
+F:\Courses & ED\ED\College\3rd Year\2nd Term\File Organization\Final Project\FO Final Project\final project\final project\obj\x86\Debug\final project.pdb
+C:\Users\a\Desktop\New folder\FO Final Project\FO Final Project\final project\final project\obj\x86\Debug\final project.exe
+C:\Users\a\Desktop\New folder\FO Final Project\FO Final Project\final project\final project\obj\x86\Debug\final project.pdb
+C:\Users\a\Desktop\New folder\FO Final Project\FO Final Project\final project\final project\bin\Debug\final project.exe
+C:\Users\a\Desktop\New folder\FO Final Project\FO Final Project\final project\final project\bin\Debug\final project.pdb
+C:\Users\a\Desktop\New folder\FO Final Project\FO Final Project\final project\final project\obj\x86\Debug\final project.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\New folder\FO Final Project\FO Final Project\final project\final project\obj\x86\Debug\final_project.Form1.resources
+C:\Users\a\Desktop\New folder\FO Final Project\FO Final Project\final project\final project\obj\x86\Debug\final_project.Form2.resources
+C:\Users\a\Desktop\New folder\FO Final Project\FO Final Project\final project\final project\obj\x86\Debug\final_project.Properties.Resources.resources
+C:\Users\a\Desktop\New folder\FO Final Project\FO Final Project\final project\final project\obj\x86\Debug\final project.csproj.GenerateResource.Cache
+E:\Final projects\Final Project file organization\FO Final Project\final project\final project\obj\x86\Debug\final project.exe
+E:\Final projects\Final Project file organization\FO Final Project\final project\final project\obj\x86\Debug\final project.pdb
+E:\Final projects\Final Project file organization\FO Final Project\final project\final project\bin\Debug\final project.exe
+E:\Final projects\Final Project file organization\FO Final Project\final project\final project\bin\Debug\final project.pdb
+E:\Final projects\Final Project file organization\FO Final Project\final project\final project\obj\x86\Debug\final project.csprojResolveAssemblyReference.cache
+E:\Final projects\Final Project file organization\FO Final Project\final project\final project\obj\x86\Debug\final_project.Form1.resources
+E:\Final projects\Final Project file organization\FO Final Project\final project\final project\obj\x86\Debug\final_project.Form2.resources
+E:\Final projects\Final Project file organization\FO Final Project\final project\final project\obj\x86\Debug\final_project.Properties.Resources.resources
+E:\Final projects\Final Project file organization\FO Final Project\final project\final project\obj\x86\Debug\final project.csproj.GenerateResource.Cache
